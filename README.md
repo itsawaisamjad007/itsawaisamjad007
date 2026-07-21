@@ -1,5 +1,7 @@
 ## Hi I am Awais Amjad 👋
-
+<p align="center">
+  <img src="https://github.com/itsawaisamjad007/itsawaisamjad007/blob/main/Git%20Hub%20Banner.png?raw=true" width="100%" alt="Awais Amjad Banner">
+</p>
 
 Aspiring Cyber Security Analyst from Pakistan.
 
