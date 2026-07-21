@@ -27,10 +27,6 @@ Currently learning:
 I enjoy documenting my learning journey through practical labs, notes, and open-source repositories.
 
 Current Goal:
-Become a Professional Web Penetration Tester and Bug Bounty Hunter.
-## 📊 GitHub Stats
-## 📊 GitHub Stats
+Become a Professional Web Penetration Tester and Bug Bounty Hunter
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsawaisamjad007&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+
