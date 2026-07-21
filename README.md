@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi I am Awais Amjad 👋
+Aspiring Cyber Security Analyst from Pakistan.
 
-<!--
-**itsawaisamjad007/itsawaisamjad007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently learning:
 
-Here are some ideas to get you started:
+• Linux
+• Networking
+• Python
+• Web Pentesting
+• OWASP Top 10
+• Burp Suite
+• TryHackMe
+• PortSwigger
+• OverTheWire
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy documenting my learning journey through practical labs, notes, and open-source repositories.
+
+Current Goal:
+Become a Professional Web Penetration Tester and Bug Bounty Hunter.
