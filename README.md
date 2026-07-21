@@ -9,25 +9,15 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-## Hi I am Awais Amjad 👋
-Aspiring Cyber Security Analyst from Pakistan.
+## 👋 Hi, I'm Awais Amjad
 
-Currently learning:
+Aspiring Cyber Security Analyst from Pakistan with a strong interest in Web Penetration Testing, Bug Bounty Hunting, and Python for Security.
 
-• Linux
-• Networking
-• Python
-• Web Pentesting
-• OWASP Top 10
-• Burp Suite
-• TryHackMe
-• PortSwigger
-• OverTheWire
+I am currently building a strong foundation in Linux, Networking, Web Security, and modern penetration testing through hands-on labs and practical projects.
 
-I enjoy documenting my learning journey through practical labs, notes, and open-source repositories.
+I enjoy documenting my learning journey by sharing notes, projects, and open-source repositories on GitHub.
 
-Current Goal:
-Become a Professional Web Penetration Tester and Bug Bounty Hunter
+🎯 **Current Goal:** Become a Professional Web Penetration Tester and Bug Bounty Hunter while continuously improving my practical cybersecurity skills.
 ## 📊 GitHub Stats
 
 <p align="center">
