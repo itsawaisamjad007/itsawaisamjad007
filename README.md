@@ -44,3 +44,12 @@ I enjoy documenting my learning journey by sharing notes, projects, and open-sou
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsawaisamjad007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%" />
 </div>
+---
+
+## 📁 Featured Repositories & Study Notes
+
+| Repository | Focus Area | Description |
+| :--- | :--- | :--- |
+| [**tryhackme-pre-security**](https://github.com/itsawaisamjad007/tryhackme-pre-security) | Cyber Security Fundamentals | Handwritten notes, visual infographics, and CLI cheatsheets for THM Pre-Security. |
+| [**overthewire-bandit**](https://github.com/itsawaisamjad007/overthewire-bandit) | Linux CLI & Command Line | Level-by-level solutions, grep guides, and terminal search cheat sheets. |
+| [**ai-for-cybersecurity**](https://github.com/itsawaisamjad007/ai-for-cybersecurity) | Prompt Engineering & AI | Prompt code tags, AI shortcuts, and frameworks to accelerate security research. |
