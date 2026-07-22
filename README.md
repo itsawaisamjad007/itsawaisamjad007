@@ -18,8 +18,29 @@ I am currently building a strong foundation in Linux, Networking, Web Security, 
 I enjoy documenting my learning journey by sharing notes, projects, and open-source repositories on GitHub.
 
 🎯 **Current Goal:** Become a Professional Web Penetration Tester and Bug Bounty Hunter while continuously improving my practical cybersecurity skills.
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsawaisamjad007&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-</p>
+### 🌐 Platforms & Practical Labs
+
+| Platform | Focus Area | Status |
+| :--- | :--- | :--- |
+| **TryHackMe** | Pre-Security & Fundamental Paths | Completed Core Free Modules |
+| **PortSwigger Academy** | Web Application Security & Vulnerabilities | Active Learning |
+| **OverTheWire** | Linux CLI & Command Line Mastery | Active Wargames (Bandit) |
+
+<br />
+
+<a href="https://tryhackme.com/p/itsawaisamjad007" target="_blank">
+  <img src="https://img.shields.io/badge/TryHackMe-itsawaisamjad007-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile" />
+</a>
+
+## 📊 GitHub Activity & Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsawaisamjad007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsawaisamjad007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%" />
+</div>
