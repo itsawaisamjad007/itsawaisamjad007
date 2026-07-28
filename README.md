@@ -36,15 +36,10 @@ I enjoy documenting my learning journey by sharing notes, projects, and open-sou
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsawaisamjad007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
-</div>
 
-<br />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsawaisamjad007&theme=tokyo-night&hide_border=true" width="95%" />
 
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsawaisamjad007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%" />
 </div>
----
 
 ## 📁 Featured Repositories & Study Notes
 
