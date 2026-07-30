@@ -36,10 +36,15 @@ I enjoy documenting my learning journey by sharing notes, projects, and open-sou
 ## 📊 GitHub Activity & Stats
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsawaisamjad007&theme=tokyo-night&hide_border=true" width="95%" />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsawaisamjad007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=itsawaisamjad007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="80%" />
+</div>
+---
 
 ## 📁 Featured Repositories & Study Notes
 
@@ -57,6 +62,9 @@ I enjoy documenting my learning journey by sharing notes, projects, and open-sou
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsawaisamjad007)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/itsawaisamjad007)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsawaisamjad007)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsawaisamjad007)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/itsawaisamjad007)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@itsawaisamjad007)
 
 <br />
 
