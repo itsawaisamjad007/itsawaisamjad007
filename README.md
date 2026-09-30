@@ -1,70 +1,51 @@
-<p align="center">
-  <img src="https://github.com/itsawaisamjad007/itsawaisamjad007/blob/main/Git%20Hub%20Banner.png?raw=true" width="100%" alt="Awais Amjad Banner">
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
- 
-</p>
-## 👋 Hi, I'm Awais Amjad
-
-Aspiring Cyber Security Analyst from Pakistan with a strong interest in Web Penetration Testing, Bug Bounty Hunting, and Python for Security.
-
-I am currently building a strong foundation in Linux, Networking, Web Security, and modern penetration testing through hands-on labs and practical projects.
-
-I enjoy documenting my learning journey by sharing notes, projects, and open-source repositories on GitHub.
-
-🎯 **Current Goal:** Become a Professional Web Penetration Tester and Bug Bounty Hunter while continuously improving my practical cybersecurity skills.
-
-### 🌐 Platforms & Practical Labs
-
-| Platform | Focus Area | Status |
-| :--- | :--- | :--- |
-| **TryHackMe** | Pre-Security & Fundamental Paths | Completed Core Free Modules |
-| **PortSwigger Academy** | Web Application Security & Vulnerabilities | Active Learning |
-| **OverTheWire** | Linux CLI & Command Line Mastery | Active Wargames (Bandit) |
-
-<br />
-
-<a href="https://tryhackme.com/p/itsawaisamjad007" target="_blank">
-  <img src="https://img.shields.io/badge/TryHackMe-itsawaisamjad007-red?style=for-the-badge&logo=tryhackme" alt="TryHackMe Profile" />
-</a>
-
-## 📊 GitHub Activity & Stats
-
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=itsawaisamjad007&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="95%" />
+
+# 👋 Hi, I'm Awais Amjad
+
+### Aspiring SOC Analyst | Blue Team | SIEM & Threat Detection
+
+📍 Pakistan | 🎯 Seeking SOC L1 Internship / Trainee Role
+[LinkedIn](https://www.linkedin.com/in/itsawaisamjad007) • [TryHackMe](https://tryhackme.com/p/itsawaisamjad007) • [GitHub](https://github.com/itsawaisamjad007)
+
 </div>
 
-<br />
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itsawaisamjad007&theme=tokyo-night&hide_border=true" width="95%" />
-</div>
 ---
 
-## 📁 Featured Repositories & Study Notes
+### 🛡️ About Me
 
-| Repository | Focus Area | Description |
-| :--- | :--- | :--- |
-| [**tryhackme-pre-security**](https://github.com/itsawaisamjad007/tryhackme-pre-security) | Cyber Security Fundamentals | Handwritten notes, visual infographics, and CLI cheatsheets for THM Pre-Security. |
-| [**overthewire-bandit**](https://github.com/itsawaisamjad007/overthewire-bandit) | Linux CLI & Command Line | Level-by-level solutions, grep guides, and terminal search cheat sheets. |
-| [**ai-for-cybersecurity**](https://github.com/itsawaisamjad007/ai-for-cybersecurity) | Prompt Engineering & AI | Prompt code tags, AI shortcuts, and frameworks to accelerate security research. |
+I'm a cybersecurity learner focused on **SOC operations, SIEM, log analysis, and incident response**. I enjoy investigating security alerts and learning how real SOC teams defend critical systems.
+
+🎓 **Learning:** Cisco Networking Academy + TryHackMe SOC Level 1 Path
+🔎 **Interest:** Security Monitoring, Alert Triage, Phishing Analysis
+⚙️ **Goal:** To join a real SOC team and work my way towards National CERT / NCCIA
+
+> "Every alert tells a story. The analyst's job is to investigate it."
+
 ---
 
-## 📬 Let's Connect & Network!
+### 🚀 Current Learning Progress
 
-<div align="center">
+- **TryHackMe:** Completed Pre-Security Path (Free Rooms) + Working on SOC Level 1
+- **Cisco:** Introduction to Cybersecurity (In Progress) + Networking Basics - Badge
+- **Focus Areas:** Wazuh, Splunk Basics, Wireshark, MITRE ATT&CK
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsawaisamjad007)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/itsawaisamjad007)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsawaisamjad007)
+---
 
+### 🧰 Technical Skills
 
-<br />
+| Area | Tools & Concepts |
+| :--- | :--- |
+| **SIEM** | Wazuh, Splunk (Basics) |
+| **Network Analysis** | Wireshark, Nmap |
+| **Security Monitoring** | Windows Event Logs, Sysmon, Log Analysis |
+| **Frameworks** | MITRE ATT&CK, Cyber Kill Chain |
+| **Systems** | Windows, Linux (CLI) |
+| **Platforms** | TryHackMe, Cisco NetAcad, OverTheWire |
 
-> 💬 *"Learning today. Securing tomorrow."*
+---
 
-</div>
+### 📁 Featured Labs & Notes
+
+| Repository | Description |
+| :--- | :--- |
+| [**SOC-L1-Alerts-Lab**](https://github.com/itsawaisamjad
