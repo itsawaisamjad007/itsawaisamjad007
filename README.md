@@ -58,12 +58,16 @@ I'm a cybersecurity learner focused on **SOC operations, SIEM, log analysis, and
 🔬 What I'm Currently Building
 
 SOC Operations
+
     ↓
 SIEM & Log Analysis
+
     ↓
 Threat Detection
+
     ↓
 Incident Investigation
+
     ↓
 Documentation on GitHub
 
